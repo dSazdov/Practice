@@ -1,0 +1,14 @@
+E:\Solution VS\Selenium\GitHubUltimateQA.Test\GitHubUltimateQA.Test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+E:\Solution VS\Selenium\GitHubUltimateQA.Test\GitHubUltimateQA.Test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+E:\Solution VS\Selenium\GitHubUltimateQA.Test\GitHubUltimateQA.Test\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+E:\Solution VS\Selenium\GitHubUltimateQA.Test\GitHubUltimateQA.Test\bin\Debug\netcoreapp2.1\UltimateQA.Test.deps.json
+E:\Solution VS\Selenium\GitHubUltimateQA.Test\GitHubUltimateQA.Test\bin\Debug\netcoreapp2.1\UltimateQA.Test.runtimeconfig.json
+E:\Solution VS\Selenium\GitHubUltimateQA.Test\GitHubUltimateQA.Test\bin\Debug\netcoreapp2.1\UltimateQA.Test.runtimeconfig.dev.json
+E:\Solution VS\Selenium\GitHubUltimateQA.Test\GitHubUltimateQA.Test\bin\Debug\netcoreapp2.1\UltimateQA.Test.dll
+E:\Solution VS\Selenium\GitHubUltimateQA.Test\GitHubUltimateQA.Test\bin\Debug\netcoreapp2.1\UltimateQA.Test.pdb
+E:\Solution VS\Selenium\GitHubUltimateQA.Test\GitHubUltimateQA.Test\obj\Debug\netcoreapp2.1\UltimateQA.Test.csproj.CoreCompileInputs.cache
+E:\Solution VS\Selenium\GitHubUltimateQA.Test\GitHubUltimateQA.Test\obj\Debug\netcoreapp2.1\UltimateQA.Test.AssemblyInfoInputs.cache
+E:\Solution VS\Selenium\GitHubUltimateQA.Test\GitHubUltimateQA.Test\obj\Debug\netcoreapp2.1\UltimateQA.Test.AssemblyInfo.cs
+E:\Solution VS\Selenium\GitHubUltimateQA.Test\GitHubUltimateQA.Test\obj\Debug\netcoreapp2.1\UltimateQA.Test.dll
+E:\Solution VS\Selenium\GitHubUltimateQA.Test\GitHubUltimateQA.Test\obj\Debug\netcoreapp2.1\UltimateQA.Test.pdb
+E:\Solution VS\Selenium\GitHubUltimateQA.Test\GitHubUltimateQA.Test\obj\Debug\netcoreapp2.1\UltimateQA.Test.csprojAssemblyReference.cache
